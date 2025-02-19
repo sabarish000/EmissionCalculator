@@ -1,0 +1,1 @@
+java -jar %~dp0target\Co2EmissionCalculator-1.0-SNAPSHOT.jar %*
